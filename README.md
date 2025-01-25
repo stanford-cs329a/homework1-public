@@ -15,4 +15,4 @@ pip install -e .  # Run this from root of the repo.
 
 The starter code is in `homework1.ipynb`.
 
-Make sure you have the `OPENAI_API_KEY` environment variable set.
+Make sure you have the `OPENAI_API_KEY` environment variable set. Please submit a single pdf of your homework1.ipynb file to gradescope.
